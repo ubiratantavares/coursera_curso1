@@ -25,6 +25,5 @@ public class Compra {
 	
 	public double getValorParcela() {
 		return getValorTotal()/getNumeroParcelas();
-	}
-	
+	}	
 }
